@@ -43,7 +43,9 @@ dependencies:
   path_provider: ^2.1.2
   url_launcher: ^6.2.4
   gal: ^2.3.0
-  opencv_4: ^1.0.0
+  opencv_ffi: ^1.2.0
+  flutter_barcode_scanner: ^2.0.0
+  image_gallery_saver: ^2.0.3
 
 dev_dependencies:
   flutter_test:

@@ -1,6 +1,5 @@
 import 'dart:ui' as ui;
 import 'dart:ui';
-import 'package:opencv_4/opencv_4.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:flutter/rendering.dart';
